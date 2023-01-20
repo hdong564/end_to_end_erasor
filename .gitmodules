@@ -1,0 +1,6 @@
+[submodule "ERASOR"]
+	path = ERASOR
+	url = https://github.com/hdong564/ERASOR.git
+[submodule "FAST_LIO"]
+	path = FAST_LIO
+	url = https://github.com/hdong564/FAST_LIO.git
